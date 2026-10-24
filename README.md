@@ -50,15 +50,21 @@ Experiments with sensors, microcontrollers, automation, and embedded systems.
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonym141&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonym141&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: (https://github.com/Anonym141)
+- Email:  g1685058@gmail.com)
+
+### Media Social 
+- Tiktok : https://www.tiktok.com/@vinestz_
+- Instagram : https://www.instagram.com/lutcifer__v
+
 
 ---
 
