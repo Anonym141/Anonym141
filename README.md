@@ -6,8 +6,8 @@
 <br>
 
 <p align="center">
-  <H1>Hey, I'm Lutfi Gilang 👋</H1> 
-<p>
+  <h1>Hey, I'm Lutfi Gilang 👋</h1> 
+</p>
 
 ### IoT Developer · Network Engineer · Web Developer
 
