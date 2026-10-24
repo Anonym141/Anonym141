@@ -58,8 +58,8 @@ Experiments with sensors, microcontrollers, automation, and embedded systems.
 
 ### 📫 Connect With Me
 
-- GitHub: (https://github.com/Anonym141)
-- Email:  g1685058@gmail.com)
+- GitHub: https://github.com/Anonym141
+- Email:  g1685058@gmail.com
 
 ### Media Social 
 - Tiktok : https://www.tiktok.com/@vinestz_
